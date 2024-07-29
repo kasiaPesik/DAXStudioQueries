@@ -1,1 +1,3 @@
 # DAXStudioQueries
+
+Projekt na GitHubie zawiera plik z zestawem zapytań DAX, które pozwalają na interakcję z systemowymi tabelami modelu danych w Power BI. Zapytania te umożliwiają analizę, zarządzanie i optymalizację modeli danych, dostarczając informacji o tabelach, kolumnach, miarach, zależnościach oraz uprawnieniach. Projekt skierowany jest do analityków danych i deweloperów BI, którzy chcą szybko uzyskać dostęp do szczegółowych danych systemowych bez potrzeby tworzenia skomplikowanej struktury plików czy dokumentacji. Jest to proste narzędzie wspierające efektywne zarządzanie i audytowanie modeli danych w środowisku Power BI.
